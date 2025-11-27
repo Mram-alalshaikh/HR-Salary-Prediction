@@ -10,17 +10,19 @@ The analysis includes full statistical diagnostics, assumption validation, model
 ## 📂 Project Structure
 HR-Salary-Prediction/
 │
-├── 📁 Report/
-│    └── HR_Salary_Prediction_Report.pdf
+├── Code/
+│    ├── Simple_regression.ipynb
+│    ├── Multiple_regression.ipynb
 │
-├── 📁 Code/
-│    ├── simple_regression.ipynb
-│    ├── multiple_regression.ipynb
+├── Data/
+│    └── WA_Fn-UseC_-HR-Employee-Attrition.csv
 │
-├── 📁 Data/
-│    └── HR_data.csv     # Public dataset
+├── Report/
+│    └── Final_Project_ReportSMDA.docx
 │
-└── README.md
+├── LICENSE
+├── README.md
+└── .gitignore
 
 
 ---
