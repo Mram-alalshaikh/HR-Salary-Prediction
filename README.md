@@ -35,6 +35,7 @@ HR-Salary-Prediction/
 ├── Report/
 │    └── Final_Project_ReportSMDA.docx
 │
+├── requirements.txt
 ├── LICENSE
 ├── README.md
 └── .gitignore
