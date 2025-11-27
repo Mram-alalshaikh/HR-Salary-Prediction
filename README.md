@@ -1,12 +1,18 @@
 <p align="center">
+  <!-- Main Tech Badges -->
   <img src="https://img.shields.io/badge/Python-3.9-blue.svg" />
   <img src="https://img.shields.io/badge/Jupyter-Notebook-orange.svg" />
   <img src="https://img.shields.io/badge/License-MIT-green.svg" />
   <img src="https://img.shields.io/badge/Status-Completed-brightgreen.svg" />
-  <img src="https://img.shields.io/badge/Model-Linear%20Regression-lightblue.svg" />
   <img src="https://img.shields.io/badge/Category-Machine%20Learning-purple.svg" />
   <img src="https://img.shields.io/badge/Dataset-IBM%20HR%20Analytics-red.svg" />
+
+  <!-- Models -->
+  <br><br>
+  <img src="https://img.shields.io/badge/Simple%20Regression-Model-blue.svg" />
+  <img src="https://img.shields.io/badge/Multiple%20Regression-Model-purple.svg" />
 </p>
+
 ## HR-Salary-Prediction
 Predicting Monthly Income using Simple & Multiple Linear Regression on the IBM HR Analytics Dataset.
 
